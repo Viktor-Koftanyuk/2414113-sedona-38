@@ -1,4 +1,4 @@
-смотреть тут -> https://viktor-koftanyuk.github.io/2414113-sedona-38/
+смотреть тут -> https://viktor-koftanyuk.github.io/sedona/
 # Личный проект «Седона»
 
 - Студент: [Виктор Кофтанюк](https://up.htmlacademy.ru/htmlcss/38/user/2414113).
